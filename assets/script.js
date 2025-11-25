@@ -211,7 +211,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			minRenda: 2160.01,
 		},
 		{
-			modalidade: "MCMV - Faixa 1 (Extendida)",
+			modalidade: "MCMV - Faixa 1 (Estendida)",
 			tipoImovel: "Empreendimento",
 			amortizacao: "SAC ou PRICE",
 			indexador: "TR",
